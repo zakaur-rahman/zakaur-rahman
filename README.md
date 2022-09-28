@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=zakaur-rahman"
-            alt="zakaur-rahman" width="600" /></a> </p>
+            alt="zakaur-rahman" width="550" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zakaurrahman67" target="blank"><img
             src="https://img.shields.io/twitter/follow/zakaurrahman67?logo=twitter&style=for-the-badge"
