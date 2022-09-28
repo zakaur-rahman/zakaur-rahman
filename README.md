@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zakaur Rahman</h2>
 
 <h3 align="center">A passionate Software Engineer from India.</h3>
-<img align ="right" alt="Night Coding" width="250" src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif" align="right"/>
+<img align ="right" alt="Night Coding" width="300" src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif" align="right"/>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=zakaur-rahman"
-            alt="zakaur-rahman" /></a> </p>
+            alt="zakaur-rahman" width="500" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zakaurrahman67" target="blank"><img
             src="https://img.shields.io/twitter/follow/zakaurrahman67?logo=twitter&style=for-the-badge"
