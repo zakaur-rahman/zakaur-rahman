@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zakaur Rahman</h2>
 
-<h1 align="center">Hi 👋, I'm Zakaur Rahman</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
+<img align ="right" alt="Night Coding" width="350" src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif" align="right"/>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=0e75b6&style=flat"
@@ -15,13 +15,15 @@
             src="https://img.shields.io/twitter/follow/zakaurrahman67?logo=twitter&style=for-the-badge"
             alt="zakaurrahman67" /></a> </p>
 
-- 🌱 I'm on track for learning more about **Artificial Intelligence, Systems
-Design, and Cloud Architecture.**
+### 👨🏻‍💻 &nbsp;About Me
 
-- 📫 How to reach me **zakaurrahman67@gmail.com**
-
-- ⚡ Fun fact **I am funny😊**
-- <img alt="Night Coding" src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif" align="right"/>
+💡 &nbsp;&nbsp;&nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;&nbsp;&nbsp;&nbsp;I'm currently studying Computer Science and Engineering at the Shridevi Institute of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engineering and Technology.\
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Architecture.\
+✍️ &nbsp;&nbsp;&nbsp;&nbsp;In my free time, I pursue Photography and Editing as hobbies/side hustles.\
+💬 &nbsp;&nbsp;&nbsp;&nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;&nbsp;&nbsp;&nbsp;You can shoot me an email at zakaurrahman67@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;&nbsp;&nbsp;&nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
