@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zakaur Rahman</h1>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zakaur Rahman</h2>
+<!--## <h1 align="center">Hi 👋, I'm Zakaur Rahman</h1> -->
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="zakaur-rahman" /> </p>
@@ -12,6 +13,7 @@
 - 📫 How to reach me **zakaurrahman67@gmail.com**
 
 - ⚡ Fun fact **I am funny😊**
+<img alt="Night Coding" src="./assets/zakaur-rahman.gif" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
