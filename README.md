@@ -2,7 +2,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zakaur Rahman</h2>
 
 <h3 align="center">A passionate Software Engineer from India.</h3>
-<img align ="right" alt="Night Coding" width="300" src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif" align="right"/>
+<img align ="right" alt="Night Coding" width="250" src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif" align="right"/>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=zakaur-rahman"
-            alt="zakaur-rahman" width="500" /></a> </p>
+            alt="zakaur-rahman" width="400" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zakaurrahman67" target="blank"><img
             src="https://img.shields.io/twitter/follow/zakaurrahman67?logo=twitter&style=for-the-badge"
@@ -18,10 +18,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;&nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick 
-    &nbsp;&nbsp;&nbsp;&nbsp;hacks.\
-🎓 &nbsp;&nbsp;&nbsp;&nbsp;I'm currently studying Computer Science and Engineering at the Shridevi Institute of 
-    &nbsp;&nbsp;&nbsp;&nbsp;Engineering and Technology.\
+💡 &nbsp;&nbsp;&nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;&nbsp;&nbsp;&nbsp;I'm currently studying Computer Science and Engineering at the Shridevi Institute of Engineering and Technology.\
 🌱 &nbsp;&nbsp;&nbsp;&nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;&nbsp;&nbsp;&nbsp;In my free time, I pursue Photography and Editing as hobbies/side hustles.\
 💬 &nbsp;&nbsp;&nbsp;&nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
