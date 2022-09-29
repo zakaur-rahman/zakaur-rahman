@@ -1,4 +1,4 @@
-![Banner](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/gitban.png)
+![Banner](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/falcg.jpg)
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zakaur Rahman</h2>
 
 <h3 align="center">A passionate Software Engineer from India.</h3>
