@@ -72,6 +72,6 @@
 
 <br />
 <img
-  src="https://github.com/zakaur-rahman/zakaur-rahman/blob/main/images/stat.svg"
+  src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/stat.svg"
   alt="Zakaur Rahman's WakaTime Activity"
 />
