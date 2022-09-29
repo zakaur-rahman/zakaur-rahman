@@ -24,7 +24,7 @@
 ✍️ &nbsp;&nbsp;&nbsp;&nbsp;In my free time, I pursue Photography and Editing as hobbies/side hustles.\
 💬 &nbsp;&nbsp;&nbsp;&nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;&nbsp;&nbsp;&nbsp;You can shoot me an email at zakaurrahman67@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;&nbsp;&nbsp;&nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;&nbsp;&nbsp;&nbsp;Please have a look at my [Résumé](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/Z45N.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
