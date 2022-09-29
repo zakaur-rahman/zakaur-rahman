@@ -53,9 +53,25 @@
         alt="zakaur-rahman" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=zakaur-rahman&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=zakaur-rahman&show_icons=true&theme=radical&locale=en"
         alt="zakaur-rahman" /></p>
 
 <p><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=zakaur-rahman&"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=zakaur-rahman&show_icons=true&theme=radical"
         alt="zakaur-rahman" /></p>
+        
+ #### Top Repositories
+
+
+<a href="https://github.com/zakaur-rahman/zakaur-rahman.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=zakaur-rahman.github.io&theme=buefy" />
+</a>
+<a href="https://github.com/zakaur-rahman/zakaur-rahman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=zakaur-rahman&theme=buefy" />
+</a>
+
+<br />
+<img
+  src="https://github.com/zakaur-rahman/zakaur-rahman/blob/main/images/stat.svg"
+  alt="Zakaur Rahman's WakaTime Activity"
+/>
