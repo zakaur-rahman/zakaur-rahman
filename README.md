@@ -1,23 +1,40 @@
+  <!-- ###*************** Banner Image*******************### -->
+
 ![Banner](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/falcg.jpg)
+
+<!-- ###*************** Hand Wave GIF*******************### -->
+
 <img alt="Falc0n Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" />
 <h2>Hey there! I'm Zakaur Rahman</h2>
 
+<!-- ###*************** General Quote*******************### -->
+
 <h3 align="center">A passionate Software Engineer from India.</h3>
+
+<!-- ###*************** Gif Typing Image*******************### -->
+
 <img align="right" alt="Falc0n Coding" width="250"
         src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif"
         align="right" />
+
+<!-- ###*************** Github Profile View count*******************### -->
 
 <p align="left"> <img
                 src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=0e75b6&style=flat"
                 alt="zakaur-rahman" /> </p>
 
+<!-- ###*************** Github Trophy*******************### -->
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                         src="https://github-profile-trophy.vercel.app/?username=zakaur-rahman" alt="zakaur-rahman"
                         width="575" /></a> </p>
 
+<!-- ###*************** Tweeter follow Count*******************### -->
+
 <p align="left"> <a href="https://twitter.com/zakaurrahman67" target="blank"><img
                         src="https://img.shields.io/twitter/follow/zakaurrahman67?logo=twitter&style=for-the-badge"
                         alt="zakaurrahman67" /></a> </p>
+ <!-- ###********************** About Me************************### -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -34,21 +51,28 @@ interesting discussion.\
 [Résumé](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/Z45N.pdf) for more details about me. I'm open
 to feedback and suggestions!
 
+<!-- ###*************** Social media information*******************### -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- ###*************** Tweeter*******************### -->
         <a href="https://twitter.com/zakaurrahman67" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                         alt="zakaurrahman67" height="30" width="40" /></a>
+<!-- ###*************** Linkedin Profile*******************### -->
         <a href="https://linkedin.com/in/zakaur-rahman" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                         alt="zakaur-rahman" height="30" width="40" /></a>
+<!-- ###*************** Facebook Profile*******************### -->
         <a href="https://fb.com/ifalc0n67" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                         alt="ifalc0n67" height="30" width="40" /></a>
+ <!-- ###*************** Instagram Profile*******************### -->
         <a href="https://instagram.com/falc0n67" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                         alt="falc0n67" height="30" width="40" /></a>
 </p>
+<!-- ###*************** Languages And Tools*******************### -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -113,17 +137,25 @@ to feedback and suggestions!
                 rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"
                         width="35" height="35" /> </a> </p>
 
+<!-- ###*************** Most used Language *******************### -->
+
 <p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaur-rahman&show_icons=true&theme=radical&locale=en"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaur-rahman&show_icons=true&theme=radical&locale=en" 
                 alt="zakaur-rahman" /></p>
+                <!-- &layout=compact -->
+<!-- ###*************** GitHub Stats*******************### -->
 
 <p>&nbsp;<img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=zakaur-rahman&show_icons=true&theme=radical&locale=en"
                 alt="zakaur-rahman" /></p>
 
+<!-- ###*************** GitHub Contribution & Streak Stats*******************### -->
+
 <p><img align="center"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=zakaur-rahman&show_icons=true&theme=radical"
                 alt="zakaur-rahman" /></p>
+
+<!-- ###*************** Top Repositories*******************### -->
 
 #### Top Repositories
 
@@ -135,6 +167,8 @@ to feedback and suggestions!
         <img align="center"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=zakaur-rahman&theme=buefy" />
 </a>
+
+<!-- ###*************** WakaTime Which Shows How much time spend in coding*******************### -->
 
 <br />
 <!-- <img src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/stat.svg"
