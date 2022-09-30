@@ -137,8 +137,8 @@ to feedback and suggestions!
 </a>
 
 <br />
-<img src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/stat.svg"
-        alt="Zakaur Rahman's WakaTime Activity" />
+<!-- <img src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/stat.svg"
+        alt="Zakaur Rahman's WakaTime Activity" /> -->
 <a style="default" href="https://wakatime.com/@7853b2c9-28b7-4756-aae6-e85c52f839fa"><img
                 src="https://wakatime.com/badge/user/7853b2c9-28b7-4756-aae6-e85c52f839fa.svg"
                 alt="Total time coded since Sep 29 2022" /></a>
