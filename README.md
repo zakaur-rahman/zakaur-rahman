@@ -180,4 +180,4 @@ to feedback and suggestions!
 <a style="default" href="https://wakatime.com/@7853b2c9-28b7-4756-aae6-e85c52f839fa"><img
                 src="https://wakatime.com/badge/user/7853b2c9-28b7-4756-aae6-e85c52f839fa.svg"
                 alt="Total time coded since Sep 29 2022" /></a>
- ### [WakaTime Profile & Dashboard](https://wakatime.com/@falc0n67)
+<!-- ### [WakaTime Profile & Dashboard](https://wakatime.com/@falc0n67) -->
