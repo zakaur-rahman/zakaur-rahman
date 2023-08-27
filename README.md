@@ -1,6 +1,6 @@
   <!-- ###*************** Banner Image*******************### -->
 
-![Banner](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/falcg.jpg)
+![Banner](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/bann.png)
 
 <!-- ###*************** Hand Wave GIF*******************### -->
 
