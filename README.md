@@ -39,9 +39,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;&nbsp;&nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;&nbsp;&nbsp;&nbsp;I'm currently studying Computer Science and Engineering at the Shridevi Institute of
+🎓 &nbsp;&nbsp;&nbsp;&nbsp;I have recently completed Bachelor's in Computer Science at the Shridevi Institute of
 Engineering and Technology.\
-🌱 &nbsp;&nbsp;&nbsp;&nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I'm on track for learning more about Full Stack, Artificial Intelligence, Systems Design, and Cloud
 Architecture.\
 ✍️ &nbsp;&nbsp;&nbsp;&nbsp;In my free time, I pursue Photography and Editing as hobbies/side hustles.\
 💬 &nbsp;&nbsp;&nbsp;&nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some
