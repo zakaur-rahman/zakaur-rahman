@@ -161,11 +161,11 @@ to feedback and suggestions!
 
 <a href="https://github.com/zakaur-rahman/Weather.git">
         <img align="center"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=zakaur-rahman.github.io&theme=buefy" />
+                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=Weather&theme=buefy" />
 </a>
 <a href="https://github.com/zakaur-rahman/myapp.git">
         <img align="center"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=zakaur-rahman&theme=buefy" />
+                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=myapp&theme=buefy" />
 </a>
 
 <!-- ###*************** WakaTime Which Shows How much time spend in coding*******************###
