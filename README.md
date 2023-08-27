@@ -48,7 +48,7 @@ Architecture.\
 interesting discussion.\
 ✉️ &nbsp;&nbsp;&nbsp;&nbsp;You can shoot me an email at zakaurrahman67@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;&nbsp;&nbsp;&nbsp;Please have a look at my
-[Résumé](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/Zakaurrahman.pdf) for more details about me. I'm open
+[Résumé](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/Zakaur-Rahman.pdf) for more details about me. I'm open
 to feedback and suggestions!
 
 <!-- ###*************** Social media information*******************### -->
