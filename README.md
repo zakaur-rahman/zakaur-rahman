@@ -13,14 +13,13 @@
 
 <!-- ###*************** Gif Typing Image*******************### -->
 
-<img align="right" alt="Falc0n Coding" width="250"
-        src="https://raw.githubusercontent.com/zakaur-rahman/zakaur-rahman/master/assets/zakaur-rahman.gif"
-        align="right" />
 
-<!-- ###*************** Github Profile View count*******************### -->
+
+<!-- ###*************** Github Profile View count*******************### 
+[![](https://visitcount.itsvg.in/api?id=zakaur-rahman&icon=0&color=3)](https://visitcount.itsvg.in)-->
 
 <p align="left"> <img
-                src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=0e75b6&style=flat"
+                src="https://komarev.com/ghpvc/?username=zakaur-rahman&label=Profile%20views&color=00CF24&style=flat"
                 alt="zakaur-rahman" /> </p>
 
 <!-- ###*************** Github Trophy*******************### -->
@@ -36,7 +35,7 @@
                         alt="zakaurrahman67" /></a> </p>
  <!-- ###********************** About Me************************### -->
 
-### 👨🏻‍💻 &nbsp;About Me
+<h2>👨🏻‍💻 About me</h2>
 
 💡 &nbsp;&nbsp;&nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;&nbsp;&nbsp;&nbsp;I have recently completed Bachelor's in Computer Science at the Shridevi Institute of
@@ -53,109 +52,36 @@ to feedback and suggestions!
 
 <!-- ###*************** Social media information*******************### -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- ###*************** Tweeter*******************### -->
-        <a href="https://twitter.com/zakaurrahman67" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                        alt="zakaurrahman67" height="30" width="40" /></a>
-<!-- ###*************** Linkedin Profile*******************### -->
-        <a href="https://linkedin.com/in/zakaur-rahman" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                        alt="zakaur-rahman" height="30" width="40" /></a>
-<!-- ###*************** Facebook Profile*******************### -->
-        <a href="https://fb.com/ifalc0n67" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                        alt="ifalc0n67" height="30" width="40" /></a>
- <!-- ###*************** Instagram Profile*******************### -->
-        <a href="https://instagram.com/falc0n67" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                        alt="falc0n67" height="30" width="40" /></a>
-</p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/zakaurrahman67" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/zakaur-rahman" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/ifalc0n67" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/falc0n67" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.youtube.com/@netverse" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
+
 <!-- ###*************** Languages And Tools*******************### -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                        alt="android" width="35" height="35" /> </a> <a href="https://aws.amazon.com" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-                        alt="aws" width="35" height="35" /> </a> <a href="https://getbootstrap.com" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                        alt="bootstrap" width="35" height="35" /> </a> <a href="https://www.cprogramming.com/"
-                target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                        width="35" height="35" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="35" height="35" /> </a> <a href="https://www.w3schools.com/css/"
-                target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                        alt="css3" width="35" height="35" /> </a> <a href="https://www.docker.com/" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                        alt="docker" width="35" height="35" /> </a> <a href="https://cloud.google.com" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-                        alt="gcp" width="35" height="35" /> </a> <a href="https://git-scm.com/" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
-                        width="35" height="35" /> </a> <a href="https://www.w3.org/html/" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                        alt="html5" width="35" height="35" /> </a> <a href="https://www.java.com" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                        alt="java" width="35" height="35" /> </a> <a
-                href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                        alt="javascript" width="35" height="35" /> </a> <a href="https://kubernetes.io" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-                        alt="kubernetes" width="35" height="35" /> </a> <a href="https://www.linux.org/" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                        alt="linux" width="35" height="35" /> </a> <a href="https://www.mysql.com/" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                        alt="mysql" width="35" height="35" /> </a> <a href="https://opencv.org/" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"
-                        width="35" height="35" /> </a> <a href="https://www.oracle.com/" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-                        alt="oracle" width="35" height="35" /> </a> <a href="https://pandas.pydata.org/" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                        alt="pandas" width="35" height="35" /> </a> <a href="https://www.photoshop.com/en"
-                target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                        alt="photoshop" width="35" height="35" /> </a> <a href="https://www.php.net" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-                        alt="php" width="35" height="35" /> </a> <a href="https://www.python.org" target="_blank"
-                rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                        alt="python" width="35" height="35" /> </a> <a href="https://pytorch.org/" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"
-                        width="35" height="35" /> </a> </p>
+# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 <!-- ###*************** Most used Language *******************### -->
 
-<p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaur-rahman&show_icons=true&theme=radical&locale=en" 
-                alt="zakaur-rahman" /></p>
-                <!-- &layout=compact -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaur-rahman&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+               
 <!-- ###*************** GitHub Stats*******************### -->
 
-<p>&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=zakaur-rahman&show_icons=true&theme=radical&locale=en"
-                alt="zakaur-rahman" /></p>
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zakaur-rahman?cardType=level-alternate&theme=slateorange&preferLogin=false&Background=000000&Text=00CF24&Title=00CF24&Ring=00CF24&Border=00CF24)](https://git.io/awesome-stats-card)
 <!-- ###*************** GitHub Contribution & Streak Stats*******************### -->
 
-<p><img align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=zakaur-rahman&show_icons=true&theme=radical"
-                alt="zakaur-rahman" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=zakaur-rahman&theme=hacker&card_width=450)](https://git.io/streak-stats)
 
-<!-- ###*************** Top Repositories*******************### -->
+<!-- ###*************** Top Repositories*******************### 
+
+
+
 
 #### Top Repositories
 
@@ -167,6 +93,15 @@ to feedback and suggestions!
         <img align="center"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=myapp&theme=buefy" />
 </a>
+
+-->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zakaur-rahman&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+---
 
 <!-- ###*************** WakaTime Which Shows How much time spend in coding*******************###
 
