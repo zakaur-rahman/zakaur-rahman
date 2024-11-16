@@ -78,23 +78,7 @@ to feedback and suggestions!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zakaur-rahman&theme=hacker&card_width=450)](https://git.io/streak-stats)
 
-<!-- ###*************** Top Repositories*******************### 
 
-
-
-
-#### Top Repositories
-
-<a href="https://github.com/zakaur-rahman/Weather.git">
-        <img align="center"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=Weather&theme=buefy" />
-</a>
-<a href="https://github.com/zakaur-rahman/myapp.git">
-        <img align="center"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=zakaur-rahman&repo=myapp&theme=buefy" />
-</a>
-
--->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -103,16 +87,3 @@ to feedback and suggestions!
 
 ---
 
-<!-- ###*************** WakaTime Which Shows How much time spend in coding*******************###
-
-<br />
- <img src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/wakatime_weekly_project_stats.svg"
-        alt="Zakaur Rahman's WakaTime Activity" /> 
-        
-   <img src="https://github.com/zakaur-rahman/zakaur-rahman/blob/master/images/wakatime_weekly_language_stats.svg"
-        alt="Zakaur Rahman's WakaTime Activity" />  -->       
-        
-<!--<a style="default" href="https://wakatime.com/@7853b2c9-28b7-4756-aae6-e85c52f839fa"><img
-                src="https://wakatime.com/badge/user/7853b2c9-28b7-4756-aae6-e85c52f839fa.svg"
-                alt="Total time coded since Sep 29 2022" /></a>
- ### [WakaTime Profile & Dashboard](https://wakatime.com/@falc0n67) -->
