@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/zakaur-rahman/zakaur-rahman/blob/master/assets/bann.png)
 
-<!-- ###*************** Hand Wave GIF*******************### -->
+<!-- ###*************** Hand Wave
 
 <img alt="Falc0n Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" />
 <h2>Hey there! I'm Zakaur Rahman</h2>
