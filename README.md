@@ -76,7 +76,7 @@ to feedback and suggestions!
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zakaur-rahman?cardType=level-alternate&theme=slateorange&preferLogin=false&Background=000000&Text=00CF24&Title=00CF24&Ring=00CF24&Border=00CF24)](https://git.io/awesome-stats-card)
 <!-- ###*************** GitHub Contribution & Streak Stats*******************### -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zakaur-rahman&theme=hacker&card_width=450)](https://git.io/streak-stats)
+
 
 
 ### ✍️ Random Dev Quote
